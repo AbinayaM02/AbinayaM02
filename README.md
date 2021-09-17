@@ -1,4 +1,4 @@
-### Vanakkam 🙏
+### Vanakkam Makkale 🙏
 
 I'm Abinaya Mahendiran, currently working as a Manager (Data Science & Applied AI) at NEXT Labs, Mphasis.
 
