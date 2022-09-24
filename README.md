@@ -10,6 +10,7 @@ I'm Abinaya Mahendiran, currently working as a Manager (Data Science & Applied A
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/abinayamahendiran" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/freakynut" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 
+Thank you for visiting my profile!
 
 <!--
 **AbinayaM02/AbinayaM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
