@@ -54,6 +54,11 @@ I'm Abinaya Mahendiran, Ex-Manager (Data Science & Applied AI) at NEXT Labs, Mph
             <img src="./assets/icons/scikitlearn.png" width="65px"/>
             <br /> Scikit Learn
         </td>
+        </td>
+        <td align="center" width="140" height="112.43">
+            <img src="./assets/icons/HF.png" width="65px"/>
+            <br /> HuggingFace
+        </td>
         <td align="center" width="140" height="112.43">
             <img src="./assets/icons/fastapi.png" width="65px"/>
             <br /> FastAPI
