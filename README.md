@@ -6,7 +6,8 @@ I'm Abinaya Mahendiran, Ex-Manager (Data Science & Applied AI) at NEXT Labs, Mph
 
 ### What do I do?
 - 🔭 I build end-to-end NLP and MLOps products.
-- 👯 I’m looking to collaborate on open-source applied/research projects focusing on NLP. 
+- 👯 I’m looking to collaborate on open-source applied/research projects focusing on NLP.
+- 👉Some of my open source contributions can be found here: <a href="https://huggingface.co/abinayam" target="_blank"><img src="https://img.shields.io/badge/huggingface-%40abinayam-yellow" alt="HuggingFace"></a>
 - 📚 I like to teach so I write techincal articles at <a href="https://medium.com/@abinayamahendiran" target="_blank"><img src="https://img.shields.io/badge/medium-%40abinayamahendiran-brightgreen" alt="Medium"></a> and give talks at many events.
 - 💬 Ask me about NLP/NLU, NLG, MLOps, and Architecting ML systems.
 - 😄 Pronouns: She/Her
@@ -20,6 +21,7 @@ I'm Abinaya Mahendiran, Ex-Manager (Data Science & Applied AI) at NEXT Labs, Mph
 - 🧑‍🏫 Services provided: I do provide a variety of paid services. Do book a call on <a href="https://topmate.io/abinaya_mahendiran" target="_blank"><img src="https://img.shields.io/badge/topmate.io-abinaya_mahendiran-red" alt="Topmate.io"></a>
 
 ---
+
 ### Github Stats
 
 | ![Abinaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbinayaM02&show_icons=true&theme=radical) | [![Abinaya's Streak](https://streak-stats.demolab.com?user=AbinayaM02&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
