@@ -28,7 +28,7 @@ I'm Abinaya Mahendiran, Ex-Manager (Data Science & Applied AI) at NEXT Labs, Mph
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbinayaM02&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |                                                                                                                 
 
-[![Abinaya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbinayaM02&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abinaya's github activity graph](https://github-readme-activity-graph.vercel.app?username=AbinayaM02&bg_color=121212&color=d01bc4&line=9e4c98&point=dd13a7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ### Technologies
