@@ -1,7 +1,6 @@
 ### Vanakkam Makkale 🙏
 
-I'm Abinaya Mahendiran, Ex-Manager (Data Science & Applied AI) at NEXT Labs, Mphasis, currently on a break from fulltime job and doing freelance consulting for AI/ML clients.
-
+I'm Abinaya Mahendiran, CTO, Nunnari Labs and Part-time Program Manager, IITM.
 ---
 
 ### What do I do?
