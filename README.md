@@ -1,6 +1,6 @@
 ### Vanakkam Makkale 🙏
 
-I'm Abinaya Mahendiran, CTO, Nunnari Labs and Part-time Program Manager, IITM.
+I'm Abinaya Mahendiran, CTO, Nunnari Labs (currently on maternity break).
 ---
 
 ### What do I do?
