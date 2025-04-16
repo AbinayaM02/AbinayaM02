@@ -4,11 +4,11 @@ I'm Abinaya Mahendiran, CTO, Nunnari Labs (currently on maternity break).
 ---
 
 ### What do I do?
-- 🔭 I build end-to-end NLP and MLOps products.
+- 🔭 I build end-to-end NLP, LLM-powered and MLOps/LLMOps products.
 - 👯 I’m looking to collaborate on open-source applied/research projects focusing on NLP.
 - 👉Some of my open source contributions can be found here: <a href="https://huggingface.co/abinayam" target="_blank"><img src="https://img.shields.io/badge/huggingface-%40abinayam-yellow" alt="HuggingFace"></a>
 - 📚 I like to teach so I write techincal articles at <a href="https://medium.com/@abinayamahendiran" target="_blank"><img src="https://img.shields.io/badge/medium-%40abinayamahendiran-brightgreen" alt="Medium"></a> and give talks at many events.
-- 💬 Ask me about NLP/NLU, NLG, MLOps, and Architecting ML systems.
+- 💬 Ask me about NLP/NLU, NLG, MLOps, LLMOps and Architecting ML systems.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Other than coding, I love cooking (secretly aspiring to be a chef someday!) and gardening.
 
