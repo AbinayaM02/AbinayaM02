@@ -1,6 +1,6 @@
 ### Vanakkam Makkale 🙏
 
-I'm Abinaya Mahendiran, CTO, Nunnari Labs (currently on maternity break).
+I'm Abinaya Mahendiran, CTO, Nunnari Labs
 ---
 
 ### What do I do?
