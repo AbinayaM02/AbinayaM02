@@ -23,9 +23,9 @@ I'm Abinaya Mahendiran, CTO, Nunnari Labs
 
 ### Github Stats
 
-| ![Abinaya's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AbinayaM02&show_icons=true&theme=radical) | [![Abinaya's Streak](https://streak-stats.demolab.com?user=AbinayaM02&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ![Abinaya's GitHub stats](https://github-stats-extended.vercel.app/api?username=AbinayaM02&theme=radical) | [![Abinaya's Streak](https://streak-stats.demolab.com?user=AbinayaM02&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbinayaM02&layout=compact&&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |      
+| [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AbinayaM02&layout=compact&&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended) |      
 
 
 
